@@ -1,0 +1,1 @@
+Projects from the Responsive Web Design certification of freeCodeCamp.org
